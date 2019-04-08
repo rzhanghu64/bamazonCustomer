@@ -32,3 +32,11 @@ node bamazonCustomer
 Prompts for proper inputs are described in application as it is used. 
 
 Application can be force closed with Ctrl+C, and can be terminated normally on exit prompt.
+
+## Screenshots
+
+(https://github.com/rzhanghu64/bamazonCustomer/blob/master/screenshots/initial_prompt.PNG?raw=true)
+(https://github.com/rzhanghu64/bamazonCustomer/blob/master/screenshots/standard_usage.PNG?raw=true)
+(https://github.com/rzhanghu64/bamazonCustomer/blob/master/screenshots/edge_case_empty_id_or_quantity.PNG?raw=true)
+(https://github.com/rzhanghu64/bamazonCustomer/blob/master/screenshots/edge_case_id_not_available.PNG?raw=true)
+(https://github.com/rzhanghu64/bamazonCustomer/blob/master/screenshots/edge_case_stock_too_small_or_zero.PNG?raw=true)
